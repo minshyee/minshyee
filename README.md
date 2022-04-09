@@ -14,9 +14,9 @@
 
 **[ Data Science ]** **TensorFlow**, Pandas, Numpy, Scikit-learn, keras
 
-**[ Programming Skills ]** **Python**, C, Flask, git, JavaScript, Selenium
+**[ Skills ]** **Python**, C, Flask, git, JavaScript, Selenium
 
-**[ Data Visualization ]** **Seaborn(py), Matplotlib(py),** Metabase
+**[ Visualization ]** **Seaborn(py), Matplotlib(py),** Metabase
 
 **[ Database ]** **SQLite3,** mongoDB(NoSQL)
 
