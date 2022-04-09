@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm a Data Scientist. 
+🔭 I’m currently working on finding new place
+🌱 I’m currently learning ML,DL
 
 <!--
 **minshyee/minshyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
