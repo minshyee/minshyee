@@ -1,15 +1,14 @@
 ### Hi there 👋 I'm a Data Scientist. 
 <body>
   <div align=left>
-    <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white"/></a>
-<!--     <a href=https://ruo.oopy.io/project/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
-<!--     <a href=https://ruo.oopy.io/profile/><img src="https://img.shields.io/badge/ABOUT_ME-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
-<!--     <a href="mailto:comsa333@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a> -->
+    <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href=https://ruo.oopy.io/project/><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
   </div>
 </body>
-
+</br>
 🔭 I’m currently finding new place to work </br>
 🌱 I’m still learning ML, DL,  Math
+
 
 ### 🛠****Tech Stacks****
 
@@ -21,6 +20,13 @@
 
 **[ Database ]** **SQLite3,** mongoDB(NoSQL)
 
+</br>
+
+![minshyee's github stats](https://github-readme-stats.vercel.app/api?username=minshyee&show_icons=true&theme=cobalt2)
+</br>
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminshyee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ </div>
 <!--
 **minshyee/minshyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
