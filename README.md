@@ -1,6 +1,14 @@
 ### Hi there 👋 I'm a Data Scientist. 
-https://img.shields.io/badge/GMAIL-{red}?style=for-the-badge&logo=appveyor&logo={로고}&logoColor=ffffff
-🔭 I’m currently working on finding new place </br>
+<body>
+  <div align=left>
+    <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white"/></a>
+<!--     <a href=https://ruo.oopy.io/project/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
+<!--     <a href=https://ruo.oopy.io/profile/><img src="https://img.shields.io/badge/ABOUT_ME-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
+<!--     <a href="mailto:comsa333@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a> -->
+  </div>
+</body>
+
+🔭 I’m currently finding new place to work </br>
 🌱 I’m still learning ML, DL,  Math
 
 ### 🛠****Tech Stacks****
