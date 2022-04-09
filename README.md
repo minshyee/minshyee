@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Data Scientist. 
+### Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm a Data Scientist.  
 <body>
   <div align=left>
     <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -22,7 +22,7 @@
 
 </br>
 
-![minshyee's github stats](https://github-readme-stats.vercel.app/api?username=minshyee&show_icons=true&theme=cobalt2&hide=stars)
+![minshyee's github stats](https://github-readme-stats.vercel.app/api?username=minshyee&show_icons=true&theme=cobalt2&hide=stars,contribs)
 
 
 
