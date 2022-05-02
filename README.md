@@ -3,7 +3,7 @@
   <div align=left>
     <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <a href=https://bebetterlife.oopy.io/><img src="https://img.shields.io/badge/log-124191?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href=https://bebetterlife.oopy.io/><img src="https://img.shields.io/badge/BLOG-336699"/></a>
+    <a href=https://bebetterlife.oopy.io/><img src="https://img.shields.io/badge/BLOG-FF8800?style=for-the-badge"/></a>
     
   </div>
 </body>
