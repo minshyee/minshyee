@@ -2,8 +2,8 @@
 <body>
   <div align=left>
     <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <a href=https://bebetterlife.oopy.io/><img src="https://img.shields.io/badge/Log-FF5722?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href=https://infatigablemente.tistory.com/><img src="https://img.shields.io/badge/BLOG-68BC71?style=for-the-badge"/></a>
+    <a href=https://bebetterlife.oopy.io/><img src="https://img.shields.io/badge/Log-F46D01?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href=https://infatigablemente.tistory.com/><img src="https://img.shields.io/badge/BLOG-428813?style=for-the-badge"/></a>
     
   </div>
 </body>
