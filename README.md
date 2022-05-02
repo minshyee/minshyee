@@ -2,7 +2,7 @@
 <body>
   <div align=left>
     <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <a href=https://velog.io/><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+    <a href=https://bebetterlife.oopy.io/><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   </div>
 </body>
 </br>
