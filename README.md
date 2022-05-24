@@ -8,7 +8,7 @@
   </div>
 </body>
 </br>
-🔭 I’m currently finding new place to work </br>
+🔭 I’m currently looking for a new place to work </br>
 🌱 I’m still learning ML, DL,  Math
 
 
