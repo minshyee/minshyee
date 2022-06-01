@@ -1,4 +1,4 @@
-### Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm a Data Scientist.  
+### Hello🍊, I'm a Data Scientist.  
 <body>
   <div align=left>
     <a href="mailto:anniesmh@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
